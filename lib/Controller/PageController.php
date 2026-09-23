@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace OCA\MyApp\Controller;
+namespace OCA\FilesDetailedGridHzs\Controller;
 
-use OCA\MyApp\AppInfo\Application;
+use OCA\FilesDetailedGridHzs\AppInfo\Application;
 use OCP\AppFramework\Controller;
 use OCP\AppFramework\Http\Attribute\FrontpageRoute;
 use OCP\AppFramework\Http\Attribute\NoAdminRequired;

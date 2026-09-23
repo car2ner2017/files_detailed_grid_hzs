@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace OCA\MyApp\Controller;
+namespace OCA\FilesDetailedGridHzs\Controller;
 
 use OCP\AppFramework\Http;
 use OCP\AppFramework\Http\Attribute\ApiRoute;

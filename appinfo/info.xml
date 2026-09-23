@@ -1,26 +1,17 @@
 <?xml version="1.0"?>
 <info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	  xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
-	<id>myapp</id>
-	<name>My App</name>
+	<id>files_detailed_grid_hzs</id>
+	<name>Files Detailed Grid HZS</name>
 	<summary>Extends the standard information display in the Files app.</summary>
-	<description>It extends the standard information display in the files. application by adding additional information about files and folders to the grid.</description>
+	<description>Extends the standard information display in the Files app by adding columns for creation date, upload date, last modification date, uploader, and last editor with sorting support.</description>
 	<version>1.0.0</version>
 	<licence>AGPL-3.0-or-later</licence>
 	<author mail="car2ner2017@gmail.com" homepage="https://github.com/car2ner2017/files_detailed_grid_hzs">Jakonda</author>
-	<namespace>MyApp</namespace>
+	<namespace>FilesDetailedGridHzs</namespace>
 	<category>tools</category>
 	<bugs>https://github.com/car2ner2017/files_detailed_grid_hzs/issues</bugs>
 	<dependencies>
 		<nextcloud min-version="31" max-version="34"/>
 	</dependencies>
-	<navigations>
-		<navigation>
-			<id>myapp</id>
-			<name>My App</name>
-			<route>myapp.page.index</route>
-			<icon>app.svg</icon>
-			<type>link</type>
-		</navigation>
-	</navigations>
 </info>

@@ -1,0 +1,26 @@
+{
+  "translations": {
+    "Creation date": "Дата создания",
+    "Upload date": "Дата загрузки",
+    "Last modified date": "Дата изменения",
+    "Uploaded by": "Загрузил",
+    "Modified by": "Изменил",
+    "User information": "Информация о пользователе",
+    "Email": "Email",
+    "Not specified": "Не указан",
+    "Copy": "Копировать",
+    "Copied!": "Скопировано!",
+    "Close": "Закрыть",
+    "View full profile": "Открыть профиль",
+    "Filter by user": "Фильтр по автору",
+    "Filter by date": "Фильтр по дате",
+    "Today": "Сегодня",
+    "Yesterday": "Вчера",
+    "Last 7 days": "Последние 7 дней",
+    "Last 30 days": "Последние 30 дней",
+    "Search user...": "Поиск пользователя...",
+    "No users found": "Пользователи не найдены",
+    "Reset": "Сбросить",
+    "Date columns": "Колонки дат"
+  }
+}

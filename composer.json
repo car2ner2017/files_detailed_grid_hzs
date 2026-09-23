@@ -1,6 +1,6 @@
 {
-	"name": "nextcloud/myapp",
-	"description": "It extends the standard information display in the files. application by adding additional information about files and folders to the grid.",
+	"name": "nextcloud/files_detailed_grid_hzs",
+	"description": "Extends the standard information display in the Files app by adding columns for creation date, upload date, last modification date, uploader, and last editor.",
 	"license": "AGPL-3.0-or-later",
 	"authors": [
 		{
@@ -11,7 +11,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"OCA\\MyApp\\": "lib/"
+			"OCA\\FilesDetailedGridHzs\\": "lib/"
 		}
 	},
 	"scripts": {

@@ -1,0 +1,27 @@
+OC.L10N.register(
+    "files_detailed_grid_hzs",
+    {
+    "Creation date": "Дата создания",
+    "Upload date": "Дата загрузки",
+    "Last modified date": "Дата изменения",
+    "Uploaded by": "Загрузил",
+    "Modified by": "Изменил",
+    "User information": "Информация о пользователе",
+    "Email": "Email",
+    "Not specified": "Не указан",
+    "Copy": "Копировать",
+    "Copied!": "Скопировано!",
+    "Close": "Закрыть",
+    "View full profile": "Открыть профиль",
+    "Filter by user": "Фильтр по автору",
+    "Filter by date": "Фильтр по дате",
+    "Today": "Сегодня",
+    "Yesterday": "Вчера",
+    "Last 7 days": "Последние 7 дней",
+    "Last 30 days": "Последние 30 дней",
+    "Search user...": "Поиск пользователя...",
+    "No users found": "Пользователи не найдены",
+    "Reset": "Сбросить",
+    "Date columns": "Колонки дат"
+},
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);");
